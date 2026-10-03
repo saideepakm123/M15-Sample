@@ -6,6 +6,8 @@ public class Practice {
 		
 		System.out.println("I am Sai");
 		
+		System.out.println("I am present");
+		
 	}
 	
 }
