@@ -13,6 +13,9 @@ public class Practice {
 		System.out.println("Pull operation");
 		
 		System.out.println("New created branch");
+		
+		System.out.println("Changed Code in ATE branch and pushed");
+		
 	}
 	
 }
