@@ -16,6 +16,8 @@ public class Practice {
 		
 		System.out.println("Changed Code in ATE branch and pushed");
 		
+		System.out.println("FTE changed");
+		
 	}
 	
 }
