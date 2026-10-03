@@ -10,6 +10,8 @@ public class Practice {
 		
 		System.out.println("I am here");
 		
+		System.out.println("Pull operation");
+		
 	}
 	
 }
