@@ -7,10 +7,14 @@ public class Practice {
 		System.out.println("I am Sai");
 		
 		System.out.println("I am present");
-		
+	
 		System.out.println("I am here");
 		
 		System.out.println("Pull operation");
+		
+		System.out.println("New created branch");
+		
+		System.out.println("Changed Code in ATE branch and pushed");
 		
 	}
 	
